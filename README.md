@@ -4,7 +4,7 @@ Yet another version of "[wedata](http://wedata.net/)"
 
 Cf.) [DataWikiを実現するWedataの構築と運用](http://www.slideshare.net/eto/datawikiwedata)
 
-## Contributing (to create a new database)
+## How to Create a New Database)
 
 ### Step 1: Clone and Commit
 
@@ -20,8 +20,3 @@ Cf.) [DataWikiを実現するWedataの構築と運用](http://www.slideshare.net
 1. Create a new repository for the new database in your GitHub
 1. Add the above repository as a remote origin (`git remote add origin <git-url>`)
 1. Push it (`git push origin master`)
-
-### Step 3: Let us know
-
-1. Let us know to fork it back into wedata (Open an issue [here](https://github.com/wedata/wedata.github.io/issues))
-1. We will add you to our team as a collaborator
